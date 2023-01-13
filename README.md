@@ -2,5 +2,6 @@ Hola! en este repo voy a subir una pagina que hice en un curso de Udemy de un Bl
 
 tiene principalmente Html y Css puro!
 
+Utilice una libreria de Javascript llamada modernizr para mejorar la performance de las imagenes, que no sean tan pesadas pero manteniendo la calidad.
 
 # BlogDeCafe
