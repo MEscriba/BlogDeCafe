@@ -11,4 +11,4 @@ se deployo la web en---> https://dulcet-crostata-d06994.netlify.app/index.html
 # BlogDeCafe
 --------------------------------------------------------------------------------------------------------------------------------
 
-image.png
+![Imagen del blog ](https://github.com/MEscriba/BlogDeCafe/blob/main/img/Captura.PNG)
