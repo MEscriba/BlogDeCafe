@@ -7,5 +7,8 @@ Utilice una libreria de Javascript llamada modernizr para mejorar la performance
 
 se deployo la web en---> https://dulcet-crostata-d06994.netlify.app/index.html
 
-
+------------------------------------------------------------------------------------------------------------------------------------
 # BlogDeCafe
+--------------------------------------------------------------------------------------------------------------------------------
+
+image.png
